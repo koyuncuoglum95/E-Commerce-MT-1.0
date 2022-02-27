@@ -18,4 +18,4 @@ I used stripe js and commerce.js to build this app.
 
 # Link of the Project
 
-https://dev325.d3uj5fulmpxqkt.amplifyapp.com/
+https://main.d1lw4n0154hka.amplifyapp.com/
